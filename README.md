@@ -1,5 +1,9 @@
 # Machine_Learning_Models
-Developed models of machine learning
+## Developed models of machine learning
+## Project Overview
+- Implemented Correlation Coefficient to analyze variable relationships and Linear Regression for tip prediction, visualizing results with NumPy and Matplotlib.
+- Developed Prediction Error analysis to assess model accuracy and implemented Logistic Regression for customer approval prediction using Sigmoid function.
+- Built an ID3 Decision Tree for predicting tennis play based on weather conditions and applied KMeans Clustering for segmenting data into distinct clusters, visualizing the outcomes with sklearn and Matplotlib.
 
 ## Correlation Coefficient:
 - Implemented a Correlation Coefficient calculation to analyze the relationship between two variables (meal amount and tip amount).
